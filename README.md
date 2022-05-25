@@ -1,5 +1,5 @@
 <div id="" align="center">
-  <img src="" width="100%"/>
+  <img src="https://github.com/GitPersonal/juanchavezportfolio/blob/main/assets/juanchavez-bg.png?raw=true" width="100%"/>
 </div>
 <h1 align="center">Hi 👋, I'm Joe Santos Garcia</h1>
 <h3 align="center">A full stack developer from Tampa, FL</h3>
