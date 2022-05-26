@@ -37,8 +37,8 @@
       <td width="50%">
         <h3 align="center">Project 1</h3>
         <div align="center">  
-          <a href='https://codingphase.com' target="_blank">
-            <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 1" height="100%" />
+          <a href='https://juanchavezportfolio.com/organize.html' target="_blank">
+            <img src="https://github.com/GitPersonal/juanchavezportfolio/blob/main/assets/organize-thumbnail.png" alt="project 1" height="100%" />
           </a>
           <br>
           <br>
