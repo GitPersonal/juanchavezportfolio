@@ -1,15 +1,4 @@
-<!DOCTYPE html>
-<html lang="en" dir="ltr">
-
-<head>
-  <meta charset="utf-8">
-  <link rel="stylesheet" href="styles.css">
-  <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
-	<title>Drum Kit</title>
-</head>
-
-<body>
-  <div id="" align="center">
+<div id="" align="center">
     <img src="https://github.com/GitPersonal/juanchavezportfolio/blob/main/assets/juanchavez-bg.png?raw=true" width="100%"/>
   </div>
   <h1 align="center">Hi 👋, I'm Juan Chavez</h1>
@@ -163,11 +152,3 @@
   <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=joesantosgarcia&" alt="codingphasedotcom" /></p>
 </div>
   <br>
-  
-  
-  
-  
-  
-</body>
-
-</html>
