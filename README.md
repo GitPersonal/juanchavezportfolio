@@ -65,11 +65,11 @@
           <br>
           <br>
           <p>
-            <!-- <a href="https://juanchavezportfolio.com/kombucha.html" target="_blank">
+            <a href="#" target="_blank">
               <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-            </a>   -->
+            </a>  
             <a href="https://juanchavezportfolio.com/kombucha.html" target="_blank">
-              <img src="https://github.com/GitPersonal/juanchavezportfolio/blob/main/assets/kombucha-thumbnail.png"/>
+              <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
             </a>	
           </p>
            <p><strong>HTML, CSS, Javascript</strong></p>
