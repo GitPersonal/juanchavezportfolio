@@ -60,14 +60,14 @@
         <h3 align="center">Project 2</h3>
         <div align="center" >  
           <a href='#' target="_blank">
-            <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 2" height="100%" />
+            <img src="https://github.com/GitPersonal/juanchavezportfolio/blob/main/assets/kombucha-thumbnail.png" alt="project 2" height="100%" />
           </a>
           <br>
           <br>
           <p>
-            <a href="#" target="_blank">
+            <!-- <a href="#" target="_blank">
               <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
+            </a>   -->
             <a href="https://juanchavezportfolio.com/kombucha.html" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
             </a>	
