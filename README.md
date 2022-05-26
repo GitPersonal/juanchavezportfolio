@@ -73,7 +73,7 @@
             </a>	
           </p>
            <p><strong>HTML, CSS</strong></p>
-          <p>Kombucha</p>
+          <p>Kombucha landing page</p>
         </div>
         </tr>
       <tr>
@@ -93,28 +93,28 @@
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
             </a>
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-        <p>Description goes here</p>
+                    <p><strong>HTML, CSS</strong></p>
+        <p>The Creative Crew landing page</p>
                 </div>
             </td>
             <td width="50%">
                 <h3 align="center">Project 4</h3>
                 <div align="center">  
-                    <a href='https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0' target="_blank">
-                        <img src="https://raw.githubusercontent.com/joesantosgarcia/joesantosgarcia/main/assets/projectthumb.jpg" alt="project 4" height="100%" />
+                    <a href='https://juanchavezportfolio.com/404-not-found-page/not-found-page.html' target="_blank">
+                        <img src="https://github.com/GitPersonal/juanchavezportfolio/blob/main/assets/page-not-found-thumbnail.png" alt="project 4" height="100%" />
                     </a>
                     <br>
                     <br>
                     <p>
-                        <a href="https://codingphase.com" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
-            </a>  
-            <a href="https://codingphase.com" target="_blank">
+                        <!-- <a href="#" target="_blank">
+                      <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+                     </a>   -->
+            <a href="https://juanchavezportfolio.com/404-not-found-page/not-found-page.html" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
             </a>	
                     </p>
-                    <p><strong>HTML, CSS, Javascript</strong></p>
-                     <p>Description goes here</p>
+                    <p><strong>HTML, CSS</strong></p>
+                     <p>Responsive 404 page not found</p>
                 </div>	
             </td>
         </tr>
