@@ -44,7 +44,7 @@
           <br>
           <p>
             <a href="https://codingphase.com" target="_blank">
-              <img src="https://img.shields.io/badge/Repo-lightgrey?style=for-the-badge&logo=github"/>
+              <img src="https://img.shields.io/badge/Repo-lightgrey"/>
             </a>  
             <a href="https://juanchavezportfolio.com/organize.html" target="_blank">
               <img src="https://img.shields.io/badge/Live-lightgrey?style=for-the-badge&color=0892d0"/>
