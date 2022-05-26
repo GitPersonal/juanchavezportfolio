@@ -125,7 +125,7 @@
               </a>	
                       </p>
                       <p><strong>HTML, CSS, Javascript</strong></p>
-          <p>Description goes here</p>
+                       <p>Description goes here</p>
                   </div>	
               </td>
           </tr>
