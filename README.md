@@ -5,6 +5,7 @@
   <meta charset="utf-8">
   <link rel="stylesheet" href="styles.css">
   <link href="https://fonts.googleapis.com/css?family=Arvo" rel="stylesheet">
+	<title>Drum Kit</title>
 </head>
 
 <body>
