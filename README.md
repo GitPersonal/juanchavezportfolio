@@ -52,7 +52,7 @@
           </p>
           <p><strong>HTML, CSS</strong></p>
           <p>
-            Description goes here
+            Responsive landing page for Pier1.com. Built with HTML and CSS.
           </p>
         </div>
       </td>
